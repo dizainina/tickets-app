@@ -2,6 +2,7 @@
   "name": "tickets-app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://dizainina.github.io/tickets-app/",
   "dependencies": {
     "cra-template": "1.2.0",
     "dayjs": "^1.11.13",
