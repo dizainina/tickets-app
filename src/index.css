@@ -1,0 +1,11 @@
+body {
+  font-family: "Inter", sans-serif;
+  background-color: rgb(220 220 220 / 33%);
+  padding: 30px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
