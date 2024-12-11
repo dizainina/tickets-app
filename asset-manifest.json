@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.e74cd0ed.css",
-    "main.js": "/static/js/main.463dec88.js",
-    "static/media/plane_u67bt4vdggiw.svg": "/static/media/plane_u67bt4vdggiw.ce0989a83ff86b604347788b1fa0c9d3.svg",
-    "index.html": "/index.html",
-    "main.e74cd0ed.css.map": "/static/css/main.e74cd0ed.css.map",
-    "main.463dec88.js.map": "/static/js/main.463dec88.js.map"
+    "main.css": "/tickets-app/static/css/main.e74cd0ed.css",
+    "main.js": "/tickets-app/static/js/main.b0678b4e.js",
+    "static/media/plane_u67bt4vdggiw.svg": "/tickets-app/static/media/plane_u67bt4vdggiw.ce0989a83ff86b604347788b1fa0c9d3.svg",
+    "index.html": "/tickets-app/index.html",
+    "main.e74cd0ed.css.map": "/tickets-app/static/css/main.e74cd0ed.css.map",
+    "main.b0678b4e.js.map": "/tickets-app/static/js/main.b0678b4e.js.map"
   },
   "entrypoints": [
     "static/css/main.e74cd0ed.css",
-    "static/js/main.463dec88.js"
+    "static/js/main.b0678b4e.js"
   ]
 }
